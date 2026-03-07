@@ -1,4 +1,4 @@
-# ⚡ SHRED_PowerGridsDSE
+# ⚡ SHallow REcurrent Decoder for Dynamic State Estimation of Power Systems
 This repository provides an implementation of the SHallow REcurrent Decoder (SHRED) for dynamic state estimation in power systems.
 
 ![SHRED](img/SHRED.jpg)
