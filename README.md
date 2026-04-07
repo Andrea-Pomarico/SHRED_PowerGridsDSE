@@ -25,3 +25,20 @@ This repository collects the codes regarding the application of the Shallow REcu
 | A8 | PMU installed at the bus with the highest Scc |
 
 ![SHRED](img/SHRED_results1.jpg)
+
+## Sensitivity analysis with respect to the location of PMUs: 
+**TABLE II: Clusters with different PMU placement**
+
+| Cluster | Bus with installed a PMU |
+|--------|--------------------------|
+| B1 | 01, 04, 08, 11, 12, 16, 18, 19, 20, 25 |
+| B2 | 02, 03, 05, 09, 13, 14, 22, 23, 27, 28 |
+| B3 | 06, 07, 10, 15, 17, 21, 24, 26, 29, 39 |
+| B4 | 01, 12, 13, 14, 16 |
+| B5 | 02, 09, 11, 18, 28 |
+| B6 | 08, 19, 20, 24, 39 |
+| B7 | 05, 07, 10, 17, 27 |
+| B8 | 03, 04, 22, 23, 29 |
+| B9 | 06, 15, 21, 25, 26 |
+
+![SHRED](img/SHRED_results2.jpg)
