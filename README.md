@@ -10,8 +10,8 @@ This repository collects the codes regarding the application of the Shallow REcu
 
 # 📊 Results
 
-## TABLE I  
-**Sensitivity analysis with respect to the number of PMUs: Case studies with different numbers of PMUs**
+## Sensitivity analysis with respect to the number of PMUs: 
+**TABLE I: Case studies with different numbers of PMUs**
 
 | Case study | PMU deployment |
 |------------|----------------|
