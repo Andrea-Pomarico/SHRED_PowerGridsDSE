@@ -10,8 +10,8 @@ This repository collects the codes regarding the application of the Shallow REcu
 
 # 📊 Results
 
-## TABLE II  
-**Case studies with different numbers of PMUs**
+## TABLE I  
+**Sensitivity analysis with respect to the number of PMUs: Case studies with different numbers of PMUs**
 
 | Case study | PMU deployment |
 |------------|----------------|
@@ -23,3 +23,5 @@ This repository collects the codes regarding the application of the Shallow REcu
 | A6 | PMUs installed at the 3 buses with the highest Scc |
 | A7 | PMUs installed at the 2 buses with the highest Scc |
 | A8 | PMU installed at the bus with the highest Scc |
+
+
