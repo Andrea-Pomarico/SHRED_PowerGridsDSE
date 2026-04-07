@@ -42,3 +42,14 @@ This repository collects the codes regarding the application of the Shallow REcu
 | B9 | 06, 15, 21, 25, 26 |
 
 ![SHRED](img/SHRED_results2.jpg)
+
+## Numerical analysis with measurement noise: 
+**TABLE III: Clusters with different PMU placement**
+
+| Cluster | Bus with installed a PMU |
+|--------|--------------------------|
+| B1 | 01, 04, 08, 11, 12, 16, 18, 19, 20, 25 |
+| B2 | 02, 03, 05, 09, 13, 14, 22, 23, 27, 28 |
+| B3 | 06, 07, 10, 15, 17, 21, 24, 26, 29, 39 |
+
+![SHRED](img/SHRED_results3.jpg)
