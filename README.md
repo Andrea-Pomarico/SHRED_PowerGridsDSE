@@ -24,4 +24,4 @@ This repository collects the codes regarding the application of the Shallow REcu
 | A7 | PMUs installed at the 2 buses with the highest Scc |
 | A8 | PMU installed at the bus with the highest Scc |
 
-
+![SHRED](img/SHRED_results1.jpg)
