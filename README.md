@@ -1,7 +1,7 @@
 # ⚡ SHallow REcurrent Decoder for Dynamic State Estimation of Power Systems
 This repository provides an implementation of the SHallow REcurrent Decoder (SHRED) for dynamic state estimation in power systems.
 
-![SHRED](img/SHRED.jpg)
+![SHRED](img/SHREDv1.jpg)
 
 # 📄 Related publications
 This repository collects the codes regarding the application of the Shallow REcurrent Decoder (SHRED) method to Power System. It serves as complementary code to the following papers:
